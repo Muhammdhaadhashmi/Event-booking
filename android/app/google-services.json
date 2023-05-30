@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080783760233",
+    "project_id": "maqsoodtaent",
+    "storage_bucket": "maqsoodtaent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080783760233:android:0c21c4f6d4f06fd8b52bf8",
+        "android_client_info": {
+          "package_name": "com.app.merriagemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080783760233-5jobi5jppjgvkd7ui0ca69t15gfd9nvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kx3zeULOXEVw-ikc1cKMM6Xm_RPUqjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080783760233-5jobi5jppjgvkd7ui0ca69t15gfd9nvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
